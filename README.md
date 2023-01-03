@@ -10,6 +10,11 @@ git clone https://github.com/raymond-code-frontend/vuetube.git
 npm install
 ```
 
+## Get RapidApi key
+Follow this [link](https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel) to get the api and api key
+
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
