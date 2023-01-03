@@ -10,7 +10,7 @@ const options = {
     regionCode: "VN",
   },
   headers: {
-    "X-RapidAPI-Key": "5380412e98mshbf71c75d4ae5312p1750b7jsn5a07e562ae9c",
+    "X-RapidAPI-Key": "",
     "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
   },
 };
